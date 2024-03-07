@@ -1,11 +1,85 @@
 # PyCharm Training
 
-Übungen für meinen PyCharm Kurs
-Links
-=====
+Übungen für meinen PyCharm Kurs.
 
-Code Examples
--------------
+
+## Outline
+
+### Einführung in PyCharm
+
+* Vergleich Editoren
+* Was gibt es auf dem Bildschirm?
+
+### Installieren und Konfigurieren von PyCharm
+
+* Community Edition installieren
+* Cheat Sheet herunterladen
+* wo sind die Preferences?
+
+### ein Projekt in PyCharm aufsetzen
+
+* Projekt vs. Script
+* .idea Ordner
+* Source / Test root
+
+### Interpreter und virtuelle Umgebungen anpassen
+
+* Versionskontrolltool wählen
+* Interpreter wählen
+* requirements installieren
+* prüfen ob es das Pycharm terminal geschnallt hat!!!
+* Ausführen innerhalb oder außerhalb von Pycharm?
+
+### Versionskontrolle unter PyCharm
+
+* Git branches usw
+* Commit Message vorformatieren
+* branch graph
+* merges
+
+### Code formatieren und Stilprüfung
+
+* flake8
+* PyLance
+* black
+
+### Typannotationen prüfen
+
+* pyright oder mypy
+
+### Ausführungsmodi konfigurieren
+
+* was ist eine build configuration?
+* Skript
+* Umgebungsvariablen
+* Kommandozeilenparameter
+* Skript oder env?
+
+### der interaktive Debugger
+
+* Debugging Techniken
+* ipdb ausführen
+
+### automatische Tests mit pytest schreiben und ausführen
+
+* pytest
+* fixtures
+* parametrized tests
+* test root
+
+### Refactoring von Python-Code
+
+* fundamentals
+* automatische Funktionen
+
+### Anbindung an eine Aufgabenverwaltung
+
+* GitLab
+
+
+## Links
+
+### Code Examples
 
 -   [Python Package
     Examples](https://github.com/krother/python3_package_examples) - by
@@ -19,10 +93,8 @@ Code Examples
 -   [Image Processing with
     OpenCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
 
-------------------------------------------------------------------------
 
-Free Online Tutorials and Books
--------------------------------
+### Free Online Tutorials and Books
 
 -   [Python for
     Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) -
@@ -41,19 +113,15 @@ Free Online Tutorials and Books
     3](https://diveinto.org/python3/table-of-contents.html) - Tutorial
     for experienced programmers - by **Mark Pilgrim**
 
-------------------------------------------------------------------------
 
-Paper Books
------------
+### Paper Books
 
 -   [Data Science from
     Scratch](http://shop.oreilly.com/product/0636920033400.do) - **Joel
     Grus**
 
-------------------------------------------------------------------------
 
-Official Python Documentation
------------------------------
+### Official Python Documentation
 
 -   [Main documentation and tutorial on
     www.python.org](http://www.python.org/doc)
