@@ -15,6 +15,8 @@ f = open('quetions.json')
 content = f.read
 node = json.reads(content)
 
+print("Let's play a guessing game! Think of an animal and I will try to guess it.")
+
 finished = False
 
 while not finished
